@@ -1,0 +1,21 @@
+/*What are you doing here*/
+body {
+  background: blue;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  padding: 30px 20px;
+  margin-top: 40px;
+  cursor: pointer;
+  color: #4169e1;
+  background-color: black;
+  border-color: white
+}
+.back{
+    padding: 10px 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
